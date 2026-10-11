@@ -1,0 +1,6 @@
+{
+  "name": "Jom Belajar Kebolehjadian (Year 6 KSSR Math)",
+  "description": "Aplikasi interaktif matematik Tahun 6 KSSR Semakan topik 8.2 Kebolehjadian dengan simulasi beg guli, dadu, syiling, pemutar, kad dan situasi harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
